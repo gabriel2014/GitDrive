@@ -1,2 +1,2 @@
 # GitDrive
-Single synchronized drive using git
+Single synchronized drive for Windows, Android, gitservers using git
